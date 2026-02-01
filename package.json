@@ -1,0 +1,16 @@
+{
+  "name": "git-branch-cleanup",
+  "version": "1.0.0",
+  "description": "CLI tool to safely clean up merged and stale Git branches",
+  "main": "index.js",
+  "bin": {
+    "git-branch-cleanup": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["git", "branch", "cleanup", "cli"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
